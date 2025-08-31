@@ -25,4 +25,4 @@ It uses **Linear Regression** from `scikit-learn`.
 
 ---
 
-## 📂 Project Structure
+
